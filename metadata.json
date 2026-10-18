@@ -1,0 +1,6 @@
+{
+  "name": "SmartAI Tools",
+  "description": "Directory of curated AI tools, client-side writing helper, extractive text summarizer, prompt engineering studio, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
