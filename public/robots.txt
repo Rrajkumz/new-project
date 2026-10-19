@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://smartai-tools.pages.dev/sitemap.xml
